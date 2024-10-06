@@ -1,3 +1,8 @@
+// FUNGSI
+// Mendefenisikan Fungsi
+String sapaan(String nama) {
+  return "Halo, $nama!";
+}
 
 void main(){
   // Menggunakan var
@@ -107,5 +112,12 @@ void main(){
     print(growableList); // Output: [10, 30, 40, 50]
 
     // FUNGSI
-    
+    // Mengembalikan nilai
+    String sapaan(String nama) {
+      return "Halo, $nama!";
+    }
+  
+  // Mengembalikan nilai FUNGSI
+  String pesan = sapaan("Teman-Teman");
+  print(pesan);
 }
