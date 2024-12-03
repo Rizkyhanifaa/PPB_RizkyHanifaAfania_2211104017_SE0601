@@ -1,3 +1,3 @@
 Tampilan Google Maps di Andorid
 
-  ![gambar 1](/hasil_output.jpg)
+  ![gambar 1](screenshot_output/hasil_output.jpg)
