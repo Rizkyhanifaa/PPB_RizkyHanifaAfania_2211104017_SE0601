@@ -6,7 +6,7 @@
 
   ![gambar 2](output_program/2.png)
 
-  - Tampilan ketika sudah ada tombol (-)
+  - Tampilan ketika terdapat tombol (-)
 
   ![gambar 3](output_program/3.png)
 
