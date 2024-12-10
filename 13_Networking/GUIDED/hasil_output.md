@@ -38,6 +38,6 @@
 
   ![gambar 10](output_program/10.png)
 
-  - Tampilan setelah menekan tombol BottomSheet
+  - Tampilan setelah menekan tombol BottomSheet.
 
-  ![gambar 10](output_program/11.png)
+  ![gambar 11](output_program/11.png)
